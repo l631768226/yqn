@@ -1,0 +1,165 @@
+[ 2021-02-05 13:23:39,139][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:23:39,139][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:23:39,140][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:23:39,140][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:23:42,070][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:23:52,589][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:23:52,589][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:23:52,589][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:23:52,589][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:23:53,714][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:24:07,015][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:24:07,015][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:24:07,016][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:24:07,016][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:24:08,121][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:24:22,667][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:24:22,668][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:24:22,668][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:24:22,668][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:24:23,773][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:24:41,078][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:24:41,078][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:24:41,078][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:24:41,079][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:24:42,199][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:24:58,268][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:24:58,268][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:24:58,268][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:24:58,269][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:24:59,393][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:25:18,381][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:25:18,382][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:25:18,382][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:25:18,383][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:25:19,496][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:25:46,210][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:25:46,211][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:25:46,211][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:25:46,211][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:25:47,381][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:26:17,770][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:26:17,771][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:26:17,771][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:26:17,771][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:26:18,886][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:26:43,370][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:26:43,371][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:26:43,371][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:26:43,371][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:26:44,486][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:27:00,209][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:27:00,209][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:27:00,210][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:27:00,210][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:27:01,321][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:27:18,671][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:27:18,671][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:27:18,671][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:27:18,671][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:27:19,791][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:27:37,206][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:27:37,207][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:27:37,207][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:27:37,207][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:27:38,313][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:27:55,837][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:27:55,837][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:27:55,837][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:27:55,837][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:27:56,959][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:28:12,604][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:28:12,604][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:28:12,604][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:28:12,604][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:28:13,719][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:28:30,014][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:28:30,014][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:28:30,014][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:28:30,015][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:28:31,130][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:28:49,140][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:28:49,140][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:28:49,140][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:28:49,140][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:28:50,265][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:29:08,439][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:29:08,439][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:29:08,439][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:29:08,439][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:29:09,559][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:29:27,115][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:29:27,116][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:29:27,116][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:29:27,116][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:29:28,247][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:29:45,526][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:29:45,526][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:29:45,526][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:29:45,526][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:29:46,651][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:30:05,358][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:30:05,358][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:30:05,358][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:30:05,358][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:30:06,484][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:30:25,189][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:30:25,190][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:30:25,190][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:30:25,190][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:30:26,327][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:30:44,126][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:30:44,126][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:30:44,126][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:30:44,127][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:30:45,261][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:31:02,638][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:31:02,638][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:31:02,639][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:31:02,639][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:31:03,769][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:31:22,844][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:31:22,844][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:31:22,844][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:31:22,844][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:31:23,973][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:31:43,062][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:31:43,062][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:31:43,062][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:31:43,062][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:31:44,183][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:32:02,263][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:32:02,263][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:32:02,264][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:32:02,264][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:32:03,385][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:32:21,271][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:32:21,271][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:32:21,271][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:32:21,271][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:32:22,380][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:32:42,579][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:32:42,579][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:32:42,579][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:32:42,579][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:32:43,708][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:33:03,924][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:33:03,924][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:33:03,924][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:33:03,924][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:33:05,045][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:33:23,980][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:33:23,980][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:33:23,980][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:33:23,980][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:33:25,109][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:33:44,102][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:33:44,102][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:33:44,102][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:33:44,102][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:33:45,234][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
+[ 2021-02-05 13:34:05,227][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-05 13:34:05,228][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-05 13:34:05,228][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-05 13:34:05,228][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-05 13:34:06,353][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)

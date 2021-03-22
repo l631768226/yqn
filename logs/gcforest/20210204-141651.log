@@ -1,0 +1,5 @@
+[ 2021-02-04 14:16:57,197][cascade_classifier.transform] X_groups_test.shape=[(1, 72)]
+[ 2021-02-04 14:16:57,197][cascade_classifier.transform] group_dims=[72]
+[ 2021-02-04 14:16:57,198][cascade_classifier.transform] X_test.shape=(1, 72)
+[ 2021-02-04 14:16:57,198][cascade_classifier.transform] [layer=0] look_indexs=[0], X_cur_test.shape=(1, 72)
+[ 2021-02-04 14:16:58,466][cascade_classifier.transform] [layer=1] look_indexs=[0], X_cur_test.shape=(1, 93)
